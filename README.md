@@ -6,11 +6,11 @@ Worried about Twitter imploding and losing a decade's worth of national conversa
 
 # Getting started
 
-The quickest and best preservation method I've found is using a browser extension (Twitter Print Styles for Chrome) that renders threads to PDFs. It doesn't render all the page elements, so I also like to take screenshots when possible, using either a full-page screenshot extension (Full Page Screenshot for Chrome) or native screenshotting (cmd-shift-4 on a Mac). Both Twitter Print Styles and Full Page Screenshot will scroll the thread, but Twitter Print Styles is much more reliable for longer threads. Twitter Print Styles triggers by pressing the extension icon in the Chrome extension bar, so be sure to pin it.
+The best method is using a browser extension (Twitter Print Styles for Chrome) that renders threads to PDFs. It doesn't render all the page elements, so it's good to take screenshots when possible, using either a full-page screenshot extension (Full Page Screenshot for Chrome) or native screenshotting (cmd-shift-4 on a Mac). Both Twitter Print Styles and Full Page Screenshot will scroll the thread, but Twitter Print Styles is much more reliable for longer threads. Twitter Print Styles triggers by pressing the icon in the Chrome extension bar, so be sure to pin it.
 
 # Adding to the archive
 
-If you'd like to join the TwitterCaps effort, just install a PDF or screenshot extension, clone this, commit new PDFs or screenshots, and push. I don't want anyone to be blocked on me approving a PR. This is like the Library of Alexandria, if it had been dedicated to memes and shitposting. But if you all are dicks about it I will enforce PRs.
+If you'd like to join the TwitterCaps effort, just install a PDF or screenshot extension, clone this, commit new PDFs or screenshots, and push. The idea is to not block anyone on PR approvals. This is like the Library of Alexandria, if it had been dedicated to memes and shitposting. We need to get the scrolls out before it burns. But PRs will be enforced if you all are dicks about it. Also, if you end up redoing the directory structure or something, it would probably be good to open a PR.
 
 # FAQ
 
