@@ -25,3 +25,15 @@ Tweets from 2006 to 2017 are archived by the LoC. [Since 2018, only select tweet
 ## But we can't really lose Twitter, can we? Like we can't just wake up one day and it's gone?
 
 That's exactly what might happen. Better safe than sorry.
+
+## Why PDFs? Why not set up a Twitter mirror or at least fetch tweets with a script?
+
+Mostly because I don't have millions of dollars for adequate server space. Also it sounds hard. Finally, the humble PDF is by far the best digital preservation method. You can't open half the extant NYT links from the early '00s, or run half the Github repositories older than a year, but a PDF created in 1995 is still openable today.
+
+## What's your real agenda?????
+
+Someday when I'm taking care of a ragtag group of orphans while burning the remnants of an office building, one will ask me, "What happened?" I will pull out a binder of Twitter PDFs and say, "Listen closely, child, for today I will teach you the lost art of the tweet. Yea, I will tell you of the ways of the normies, the edgelords, and the SJWs, and how the greatest medium of our time became our greatest catastrophe." Then I will hold up a spool of thread while explaining what "lulz" were.
+
+## What if I want to contribute but I don't know how to use git?
+
+I don't know. Anyone want to set up a Google Drive folder?
