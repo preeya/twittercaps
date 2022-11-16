@@ -2,7 +2,7 @@
 
 A public archive of tweets/threads as PDFs or screenshots.
 
-Worried about Twitter imploding and losing a decade's worth of national conversation? If so, please consider contributing to TwitterCaps. The goal is to record as much of Twitter as we can, in case you-know-who loses all our data. Sure, we'll never back everything up. But we can preserve the important stuff, like the time that guy ordered too much rice.
+Worried about Twitter imploding and losing a decade's worth of national conversation? If so, please consider contributing to TwitterCaps. The goal is to record as much of Twitter as we can, in case you-know-who loses all our data. Sure, we'll never back everything up. But we can preserve the important stuff, like the time that guy ordered too much rice, or the time dril introduced us to the phrase "face God and walk backwards into hell."
 
 # Getting started
 
